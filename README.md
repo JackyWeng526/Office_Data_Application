@@ -49,3 +49,12 @@ We aim to apply the estimated MRT to thermal comfort control referring to the ps
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/MRT_prediction.png)
 
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Psychart_application.png)
+
+**The code of psychrometric chart mostly refers to the study of Teitelbaum et al.[1].
+
+#### Reference
+[1]
+
+E. Teitelbaum, P. Jayathissa, C. Miller, F. Meggers, Design with Comfort: Expanding the psychrometric chart with radiation and convection dimensions. Energy and Buildings 209, 10 (2020).
+
+https://github.com/buds-lab/psychrometric-chart-makeover
