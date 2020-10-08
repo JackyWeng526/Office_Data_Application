@@ -14,7 +14,7 @@ There are some meters recording the environmental variables every minute.
 
 Here release the data from July 2020 to September 2020 for further applications.
 
-![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Data_table.png)
+![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Data_table.PNG)
 
 
 
