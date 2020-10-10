@@ -46,9 +46,13 @@ An estimated method of MRT prediction in limit circumstance is provided.
 
 We aim to apply the estimated MRT to thermal comfort control referring to the psychrometric chart.
 
+Also, for other thermal comfort indice applications, we apply PET to estimate the occupants' thermal sensation and comfort zone.
+
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/MRT_prediction.png)
 
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Psychart_application.png)
+
+![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/PET_application.png)
 
 **The code of psychrometric chart mostly refers to the study of Teitelbaum et al.[1].
 
