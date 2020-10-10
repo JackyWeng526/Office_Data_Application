@@ -56,7 +56,7 @@ Also, for other thermal comfort indice applications, we apply PET to estimate th
 
 **The code of psychrometric chart mostly refers to the study of Teitelbaum et al.[1].
 
-# Reference
+## Reference
 [1]
 
 E. Teitelbaum, P. Jayathissa, C. Miller, F. Meggers, Design with Comfort: Expanding the psychrometric chart with radiation and convection dimensions. Energy and Buildings 209, 10 (2020).<br>
