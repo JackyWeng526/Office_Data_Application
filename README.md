@@ -59,6 +59,14 @@ Also, for other thermal comfort indice applications, we apply PET to estimate th
 #### Reference
 [1]
 
-E. Teitelbaum, P. Jayathissa, C. Miller, F. Meggers, Design with Comfort: Expanding the psychrometric chart with radiation and convection dimensions. Energy and Buildings 209, 10 (2020).
-
+E. Teitelbaum, P. Jayathissa, C. Miller, F. Meggers, Design with Comfort: Expanding the psychrometric chart with radiation and convection dimensions. Energy and Buildings 209, 10 (2020).<br>
 https://github.com/buds-lab/psychrometric-chart-makeover
+
+[2]
+
+Ladybug tools<br>
+https://github.com/ladybug-tools/ladybug-legacy/blob/master/src/Ladybug_Thermal%20Comfort%20Indices.py
+
+[3]
+
+T.-P. Lin, A. Matzarakis, Tourism climate and thermal comfort in Sun Moon Lake, Taiwan. International Journal of Biometeorology 52, 281-290 (2008).
