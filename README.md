@@ -22,9 +22,13 @@ Here release the resample data from July 2020 to September 2020 for further appl
 
 There is a occupancy detector in the office zone.
 
-So, we can use machine learning tools to predict the occupancy schedule.
+We can record the raw data and plot the human position.
+
+Also, we can use machine learning tools with the occupancy data to predict the occupancy schedule.
 
 The prediction may attribute to physical or hybrid models for CO<sub>2</sub> or thermal comfort control.
+
+![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Occ_sensor.png)
 
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Occ_prediction.png)
 
