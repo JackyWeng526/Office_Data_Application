@@ -74,3 +74,8 @@ https://github.com/ladybug-tools/ladybug-legacy/blob/master/src/Ladybug_Thermal%
 [3]
 
 T.-P. Lin, A. Matzarakis, Tourism climate and thermal comfort in Sun Moon Lake, Taiwan. International Journal of Biometeorology 52, 281-290 (2008).
+
+[4]
+
+Occpancy detector: AMGU 4241<br>
+https://na.industrial.panasonic.com/whats-new/infrared-array-sensor-grid-eye-unit-amgu4241
