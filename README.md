@@ -32,6 +32,7 @@ The prediction may attribute to physical or hybrid models for CO<sub>2</sub> or 
 
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Occ_prediction.png)
 
+![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Occ_prediction_example.png)
 
 
 ## CO<sub>2</sub> prediction
@@ -41,6 +42,8 @@ We also use machine learning tools to predict the trend of CO<sub>2</sub> concen
 Besides, the quantile regression can help us predict high and low thresholds of CO<sub>2</sub> for IAQ control.
 
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/CO2_prediction.png)
+
+![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/CO2_prediction_example.png)
 
 ![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/CO2_control.png)
 
