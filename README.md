@@ -67,6 +67,11 @@ Also, for other thermal comfort indice applications, we apply PET to estimate th
 
 **The code of psychrometric chart mostly refers to the study of Teitelbaum et al.[1].
 
+
+## Authors
+- [@Jacky Weng](https://github.com/JackyWeng526)
+
+
 ## Reference
 [1]
 
@@ -86,3 +91,7 @@ T.-P. Lin, A. Matzarakis, Tourism climate and thermal comfort in Sun Moon Lake, 
 
 Occpancy detector: AMGU 4241<br>
 https://na.industrial.panasonic.com/whats-new/infrared-array-sensor-grid-eye-unit-amgu4241
+
+
+## Acknowledgement
+The modules here are just the samples, not the real ones in the field.
