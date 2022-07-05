@@ -67,6 +67,10 @@ Also, for other thermal comfort indice applications, we apply PET to estimate th
 
 **The code of psychrometric chart mostly refers to the study of Teitelbaum et al.[1].
 
+Besides, analyzing the model-controlled setpoint temperature and preference of man-touched setpoint temperature can tell the human thermal comfort status and effectiveness of the Model Predictive Control module for the HVAC system.
+
+![image](https://github.com/JackyWeng526/Office_Data_Application/blob/main/Images/Thermal_Preference.png)
+
 
 ## Authors
 - [@Jacky Weng](https://github.com/JackyWeng526)
